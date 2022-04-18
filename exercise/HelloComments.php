@@ -1,0 +1,14 @@
+<?php
+/*
+1) Use Multi Line Comments to describe about the program.
+2) Use Single line Comments statement to describe the statement
+3) Print your Name without echo/print tag.
+4) Describe yourself in one line using echo/print.
+*/
+?>
+
+<?= 'My Name is Abdulhadi'  // Printing my name ?>
+<?php
+// About Me 
+echo "I Love PHP Programming";
+?>
