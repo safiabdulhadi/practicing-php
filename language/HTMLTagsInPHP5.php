@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PhP and HTML</title>
     <!-- Sample 5 -->
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
     <?=
-     "alert('Hello I am coming from PHP!' )";
+   //   "alert('Hello I am coming from PHP!' )";
      ?>
-    </script>
+    </script> -->
 
 </head>
 <body>
