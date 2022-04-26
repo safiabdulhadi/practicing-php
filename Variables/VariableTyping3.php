@@ -18,7 +18,6 @@ echo "Area : $area <br>";
 //  Sample 3
 
 //  It show us an error 
-
 // $length = "a";
 // $breath = "a";
 
