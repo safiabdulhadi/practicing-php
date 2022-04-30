@@ -9,9 +9,9 @@
 <body>
     <?php
     // Define a Variable 
-    $aboutme = "I am Abdulhadi and I love PHP Programing";
-    echo " <h1> About Me:";
-    echo $aboutme; // Printing the Variable
+    // $aboutme = "I am Abdulhadi and I love PHP Programing";
+    // echo " <h1> About Me:";
+    // echo $aboutme; // Printing the Variable
     ?>
 </body>
 </html>
